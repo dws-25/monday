@@ -1,2 +1,2 @@
 print('Hellow world')
-print()
+print('second')
